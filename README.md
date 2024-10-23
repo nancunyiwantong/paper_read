@@ -13,7 +13,7 @@
 
 ## 现有论文
 
-目前仓库中的论文主要集中在 **Asset Pricing** 方向。
+目前仓库中的论文主要集中在 **Asset Pricing** 和 **Nowcasting** 方向。
 
 ## 详细信息
 
